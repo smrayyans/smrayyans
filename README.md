@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Syed Muhammad Rayyan</h1>
+<h1 align="center">Syed Muhammad Rayyan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=16F2B3&center=true&vCenter=true&width=760&lines=Cybersecurity+Learner+%7C+TryHackMe+Explorer;CTF+Player+%7C+Pentesting+Journey+in+Progress;From+Graphics+Design+to+Security+Engineering" alt="typing" />
@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm81emp2aG1qZnJsYnJua3dxbHFsOHg3enlxcXpldW1qODE3ZTRsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f5E38t0xshEXzUG8gR/giphy.gif" width="430" alt="coding gif"/>
 </p>
 
-I am a cybersecurity enthusiast currently learning and building in public through TryHackMe, CTFs, and hands-on labs. I enjoy turning complex security ideas into practical, easy-to-understand solutions with a clean, human-focused approach.
+Cybersecurity enthusiast learning and building in public through TryHackMe, CTFs, and hands-on labs. I enjoy turning complex security ideas into practical, easy-to-understand solutions.
 
 ## `whoami`
 ```bash
@@ -28,11 +28,11 @@ mission: Build secure, practical, user-friendly solutions
 <details>
 <summary><b>Experience</b></summary>
 
-- **Cyber Security Student (Part-time)** at **TryHackMe**  
-  `Aug 2025 - Present` | Remote  
+- **Cyber Security Student (Part-time)** at **TryHackMe**
+  `Aug 2025 - Present` | Remote
   Penetration Testing, Cybersecurity Tools, Linux, Web App Security, Threat Detection, Security Research, Red Teaming, Network Vulnerabilities
 
-- **Creative Foundation (Graphics Design Hobby)**  
+- **Creative Foundation (Graphics Design Hobby)**
   Earlier experience in visual/design work, now used to improve clarity and UX in technical/security projects.
 
 </details>
@@ -40,10 +40,10 @@ mission: Build secure, practical, user-friendly solutions
 <details>
 <summary><b>Education</b></summary>
 
-- **University of Karachi (UBIT)**  
+- **University of Karachi (UBIT)**
   BS Computer Science (`Feb 2024 - Apr 2028`)
 
-- **Govt. College for Men, Nazimabad**  
+- **Govt. College for Men, Nazimabad**
   HSC / Intermediate, Pre-Engineering (`Nov 2021 - Jun 2023`) | Grade: `A`
 
 </details>
@@ -51,32 +51,115 @@ mission: Build secure, practical, user-friendly solutions
 <details>
 <summary><b>Certifications</b></summary>
 
-- **TryHackMe - Cyber Security 101** (`Issued Feb 2026`, `Expires Feb 2029`)  
+- **TryHackMe - Cyber Security 101** (`Issued Feb 2026`, `Expires Feb 2029`)
   ID: `THM-F9OYATOIDH` | [Credential](https://tryhackme.com/certificate/THM-F9OYATOIDH)
 
-- **TryHackMe - Pre Security** (`Issued Jan 2026`)  
+- **TryHackMe - Pre Security** (`Issued Jan 2026`)
   ID: `THM-SJO5ABVHBB` | [Credential](https://tryhackme.com/certificate/THM-SJO5ABVHBB)
 
-- **Cisco - Introduction to Cybersecurity** (`Issued Oct 2025`)  
+- **Cisco - Introduction to Cybersecurity** (`Issued Oct 2025`)
   [Credential](https://www.credly.com/badges/9df7fe3e-646e-4c3b-97bb-f1c6a1c04607/public_url)
 
-- **Cisco - Python Essentials 1** (`Issued Dec 2025`)  
+- **Cisco - Python Essentials 1** (`Issued Dec 2025`)
   [Credential](https://www.credly.com/badges/7f4e342c-9407-4a01-8ef6-cdbf0c0ffc39/public_url)
 
 - **Harvard - CS50's Introduction to Computer Science** (`Issued Jun 2025`)
 
 </details>
 
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FlexPay
+A mobile payment app with virtual card management, QR code payments, and real-time push notifications. Built with React Native + Flask.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+[View Repo](https://github.com/smrayyans/FlexPay)
+
+</td>
+<td width="50%" valign="top">
+
+### claude-sync
+Sync Claude Code environments across machines via Git. Keeps agents, skills, memory, chat history, and settings in sync with a full GUI.
+
+![Tauri](https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[View Repo](https://github.com/smrayyans/claude-sync)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CTF Writeups (TryHackMe)
+Detailed writeups for TryHackMe rooms covering web security, binary analysis, WordPress exploitation, and network vulnerabilities.
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![10 Rooms](https://img.shields.io/badge/Rooms-10-16F2B3?style=flat-square)
+
+[View Writeups](https://github.com/smrayyans/ctf-writeups-tryhackme)
+
+</td>
+<td width="50%" valign="top">
+
+### smrayyans.github.io
+Personal portfolio site.
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+
+[Visit Site](https://smrayyans.github.io)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Security Toolkit
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css,js" alt="tools"/>
 </p>
 
-## Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=smrayyans&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+---
+
+## TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/smrayyans">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/smrayyans.png" alt="TryHackMe Badge"/>
+  </a>
 </p>
 
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smrayyans&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+---
+
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/smrayyans/
-- TryHackMe: https://tryhackme.com/p/smrayyans
+- LinkedIn: [linkedin.com/in/smrayyans](https://www.linkedin.com/in/smrayyans/)
+- TryHackMe: [tryhackme.com/p/smrayyans](https://tryhackme.com/p/smrayyans)
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smrayyans/smrayyans/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smrayyans/smrayyans/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/smrayyans/smrayyans/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
