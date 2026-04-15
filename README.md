@@ -75,13 +75,13 @@ mission: Build secure, practical, user-friendly solutions
 <tr>
 <td width="50%" valign="top">
 
-### HackTricks
-The go-to hacking reference. Comprehensive pentesting techniques, privilege escalation, web exploitation, and more — used daily during CTFs and labs.
+### smrwiki
+Personal cybersecurity cheatsheet wiki — quick-reference notes on tools, techniques, and concepts built up through TryHackMe, CTFs, and labs.
 
-![Pentesting](https://img.shields.io/badge/Pentesting-Reference-16F2B3?style=flat-square)
-![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Notes-16F2B3?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-[View Wiki](https://github.com/HackTricks-wiki/hacktricks)
+[View Wiki](https://github.com/smrayyans/smrwiki)
 
 </td>
 <td width="50%" valign="top">
