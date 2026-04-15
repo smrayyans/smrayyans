@@ -87,14 +87,14 @@ A mobile payment app with virtual card management, QR code payments, and real-ti
 </td>
 <td width="50%" valign="top">
 
-### claude-sync
-Sync Claude Code environments across machines via Git. Keeps agents, skills, memory, chat history, and settings in sync with a full GUI.
+### DVAPI Walkthrough
+Hands-on exploitation of all 10 OWASP API Security Top 10 (2023) vulnerabilities on DVAPI. Manual testing with Burp Suite and Postman — BOLA, SSRF, NoSQL injection, JWT cracking, and more.
 
-![Tauri](https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_API_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![10 Vulns](https://img.shields.io/badge/Findings-10-16F2B3?style=flat-square)
 
-[View Repo](https://github.com/smrayyans/claude-sync)
+[View Walkthrough](https://github.com/smrayyans/DVAPI-walkthrough)
 
 </td>
 </tr>
@@ -112,12 +112,13 @@ Detailed writeups for TryHackMe rooms covering web security, binary analysis, Wo
 </td>
 <td width="50%" valign="top">
 
-### smrayyans.github.io
-Personal portfolio site.
+### Hacker101 CTF Writeups
+Writeups for Hacker101 CTF challenges covering web vulnerabilities, flag hunting, and real-world bug bounty style scenarios.
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+![Hacker101](https://img.shields.io/badge/Hacker101-CTF-red?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Style-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)
 
-[Visit Site](https://smrayyans.github.io)
+[View Writeups](https://github.com/smrayyans/hacker101-ctf-writeups)
 
 </td>
 </tr>
