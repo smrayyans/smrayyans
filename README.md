@@ -1,12 +1,13 @@
 <h1 align="center">Syed Muhammad Rayyan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=16F2B3&center=true&vCenter=true&width=760&lines=Cybersecurity+Learner+%7C+TryHackMe+Explorer;CTF+Player+%7C+Pentesting+Journey+in+Progress;From+Graphics+Design+to+Security+Engineering" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=16F2B3&center=true&vCenter=true&width=760&lines=Cybersecurity+Learner+%7C+TryHackMe+Explorer;Bug+Bounty+Hunter+%7C+CTF+Player;From+Graphics+Design+to+Security+Engineering" alt="typing" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smrayyans/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/smrayyans"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://github.com/smrayyans/bug-bounty-writeups"><img src="https://img.shields.io/badge/Bug_Bounty-Writeups-16F2B3?style=flat-square&logo=hackerone&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Focus-Web%20Security%20%7C%20Linux%20%7C%20CTFs-111827?style=flat-square"/>
 </p>
 
@@ -14,13 +15,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm81emp2aG1qZnJsYnJua3dxbHFsOHg3enlxcXpldW1qODE3ZTRsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f5E38t0xshEXzUG8gR/giphy.gif" width="430" alt="coding gif"/>
 </p>
 
-Cybersecurity enthusiast learning and building in public through TryHackMe, CTFs, and hands-on labs. I enjoy turning complex security ideas into practical, easy-to-understand solutions.
+Cybersecurity enthusiast and bug bounty hunter, learning and building in public through TryHackMe, CTFs, bug bounty programs, and hands-on labs. I enjoy turning complex security ideas into practical, easy-to-understand solutions.
 
 ## `whoami`
 ```bash
 name: Syed Muhammad Rayyan
-role: Cybersecurity Enthusiast + Aspiring Pentester
-current_path: TryHackMe | CTFs | Security Research
+role: Cybersecurity Enthusiast | Bug Bounty Hunter | Pentester
+current_path: TryHackMe | CTFs | Bug Bounty | Security Research
 background: Graphics design hobby -> switched to cybersecurity
 mission: Build secure, practical, user-friendly solutions
 ```
@@ -75,13 +76,13 @@ mission: Build secure, practical, user-friendly solutions
 <tr>
 <td width="50%" valign="top">
 
-### smrwiki
-Personal cybersecurity cheatsheet wiki — quick-reference notes on tools, techniques, and concepts built up through TryHackMe, CTFs, and labs.
+### Bug Bounty Writeups
+Sanitized writeups from bug bounty hunting — how each bug was found, proof of concept, and the fix. Target details removed.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Notes-16F2B3?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Writeups-16F2B3?style=flat-square&logo=hackerone&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-[View Wiki](https://github.com/smrayyans/smrwiki)
+[View Writeups](https://github.com/smrayyans/bug-bounty-writeups)
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +99,7 @@ Hands-on exploitation of all 10 OWASP API Security Top 10 (2023) vulnerabilities
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top" colspan="2">
 
 ### CTF Writeups (TryHackMe)
 Detailed writeups for TryHackMe rooms covering web security, binary analysis, WordPress exploitation, and network vulnerabilities.
@@ -107,17 +108,6 @@ Detailed writeups for TryHackMe rooms covering web security, binary analysis, Wo
 ![10 Rooms](https://img.shields.io/badge/Rooms-10-16F2B3?style=flat-square)
 
 [View Writeups](https://github.com/smrayyans/ctf-writeups-tryhackme)
-
-</td>
-<td width="50%" valign="top">
-
-### Hacker101 CTF Writeups
-Writeups for Hacker101 CTF challenges covering web vulnerabilities, flag hunting, and real-world bug bounty style scenarios.
-
-![Hacker101](https://img.shields.io/badge/Hacker101-CTF-red?style=flat-square)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Style-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)
-
-[View Writeups](https://github.com/smrayyans/hacker101-ctf-writeups)
 
 </td>
 </tr>
